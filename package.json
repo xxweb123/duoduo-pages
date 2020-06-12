@@ -1,0 +1,9 @@
+{
+  "name": "duoduo-pages",
+  "version": "1.0.0",
+  "description": "岚多多glup",
+  "main": "index.js",
+  "repository": "git@github.com:xxweb123/duoduo-pages.git",
+  "author": "landuoduo <vv22345@163.com>",
+  "license": "MIT"
+}
